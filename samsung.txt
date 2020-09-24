@@ -105,11 +105,11 @@ scs.samsungqbe.com
 uimetadata.samsungiotcloud.com
 osb-auth-ussvc-v2.samsungqbe.com
 spectrum.s3.amazonaws.com
-#ocfconnect-shard-na03-useast2.samsungiotcloud.com ### might be needed for SmartThingss
+#ocfconnect-shard-na03-useast2.samsungiotcloud.com ### might be needed for SmartThings
 gld.push.samsungosp.com
 cdn.samsungcloudsolution.com
 configprd.samsungcloudsolution.net
-(\.|^)samsungqbe\.com$
+#(\.|^)samsungqbe\.com$ ### might be needed for SmartThingss
 ###
 # List of domains used by SmartThings
 #us.account.samsung.com
