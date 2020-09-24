@@ -110,3 +110,16 @@ gld.push.samsungosp.com
 cdn.samsungcloudsolution.com
 configprd.samsungcloudsolution.net
 (\.|^)samsungqbe\.com$
+
+# List of domains used by SmartThings
+#us.account.samsung.com
+#dls.di.atlas.samsung.com
+#gpm-mobile.samsungqbe.com - blocked
+#samsung-connect.samsungiotcloud.com
+#auth2.samsungosp.com
+#vas.samsungapps.com
+#us-auth2.samsungosp.com
+#client.smartthings.com
+#dc.di.atlas.samsung.com
+#auth-global.api.smartthings.com
+#api.smartthings.com
