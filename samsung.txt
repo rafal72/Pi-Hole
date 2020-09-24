@@ -45,7 +45,7 @@ ns11.whois.co.kr
 oempprd.samsungcloudsolution.com
 oempprd.samsungcloudsolution.net
 openapi.samsung.com
-#osb-apps.samsungqbe.com. ### required for application install
+osb-apps.samsungqbe.com. ### required for application install, it runs adds
 osb-krsvc.samsungqbe.com
 osb-eusvc.samsungqbe.com
 osb.samsungqbe.com
