@@ -26,7 +26,7 @@ fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
 game.internetat.tv
 gld.samsungosp.com
-#gpm.samsungqbe.com # might be needed for SmartThings
+#gpm.samsungqbe.com ### might be needed for SmartThings
 i-stream.pl
 #infolink.pavv.co.kr # Needed for appstore and login on Samsung UE40F5500
 #lcprd1.samsungcloudsolution.net # ping test, no beaconing
@@ -105,16 +105,16 @@ scs.samsungqbe.com
 uimetadata.samsungiotcloud.com
 osb-auth-ussvc-v2.samsungqbe.com
 spectrum.s3.amazonaws.com
-ocfconnect-shard-na03-useast2.samsungiotcloud.com
+#ocfconnect-shard-na03-useast2.samsungiotcloud.com ### might be needed for SmartThingss
 gld.push.samsungosp.com
 cdn.samsungcloudsolution.com
 configprd.samsungcloudsolution.net
 (\.|^)samsungqbe\.com$
-
+###
 # List of domains used by SmartThings
 #us.account.samsung.com
 #dls.di.atlas.samsung.com
-#gpm-mobile.samsungqbe.com - blocked by Pi Hole
+#gpm-mobile.samsungqbe.com # blocked by Pi Hole
 #samsung-connect.samsungiotcloud.com
 #auth2.samsungosp.com
 #vas.samsungapps.com
