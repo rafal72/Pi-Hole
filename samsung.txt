@@ -26,7 +26,7 @@ fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
 game.internetat.tv
 gld.samsungosp.com
-gpm.samsungqbe.com
+#gpm.samsungqbe.com # might be needed for SmartThings
 i-stream.pl
 #infolink.pavv.co.kr # Needed for appstore and login on Samsung UE40F5500
 #lcprd1.samsungcloudsolution.net # ping test, no beaconing
