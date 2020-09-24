@@ -114,7 +114,7 @@ configprd.samsungcloudsolution.net
 # List of domains used by SmartThings
 #us.account.samsung.com
 #dls.di.atlas.samsung.com
-#gpm-mobile.samsungqbe.com - blocked
+#gpm-mobile.samsungqbe.com - blocked by Pi Hole
 #samsung-connect.samsungiotcloud.com
 #auth2.samsungosp.com
 #vas.samsungapps.com
