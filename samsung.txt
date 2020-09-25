@@ -92,7 +92,7 @@ vd.contents.prod.eu.s3.amazonaws.com
 log-ingestion-eu.samsungacr.com
 #osb-ussvc.samsungqbe.com # required for TV Plus
 otn.samsungcloudcdn.com
-###
+### Expanded List
 fc.samsungcloud.tv
 osb-apps.samsungqbe.com
 osb.samsungqbe.com
@@ -110,6 +110,7 @@ gld.push.samsungosp.com
 cdn.samsungcloudsolution.com
 configprd.samsungcloudsolution.net
 #(\.|^)samsungqbe\.com$ ### might be needed for SmartThings
+_xmpp-client._tcp.scs.samsungqbe.com
 ###
 # List of domains used by SmartThings
 #us.account.samsung.com
